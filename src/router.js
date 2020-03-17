@@ -15,10 +15,6 @@ class Root extends PureComponent {
 
     constructor(props) {
         super(props)
-        this.state = {
-
-        }
-
     }
 
 
@@ -34,10 +30,8 @@ class Root extends PureComponent {
         return (
             <View style={{ flex: 1 }}>
                 <Router
-                    // createReducer={reducerCreate}
                     onStateChange={stateHandler}
                     getSceneStyle={getSceneStyle}
-                    //uriPrefix={prefix}
                     hideNavBar
                     scenes={this.scenes}
                 >
