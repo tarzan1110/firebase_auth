@@ -13,3 +13,5 @@
 1. Run  "npm install"  in project directory
 2. Open android project with Android Studio by opening android/app/build.gradle.
 3. Run project on simulator or real device
+
+My skype name is tarzan1110@outlook.com
