@@ -19,3 +19,7 @@ if you can't find with this.
 Try again with  
 
 live:tarzan1110
+
+
+if you can't find me, would you share you skype here? 
+please share your skype name, let me try to search you on skype.
