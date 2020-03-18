@@ -15,3 +15,7 @@
 3. Run project on simulator or real device
 
 My skype name is tarzan1110@outlook.com
+if you can't find with this.
+Try again with  
+
+live:tarzan1110
